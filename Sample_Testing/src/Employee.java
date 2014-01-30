@@ -31,6 +31,7 @@ public class Employee {
 		System.out.println("emp age:--"+ age);
 		System.out.println("emp disignation:--"+ designation);
 		System.out.println("emp salary:--"+ salary);
+		System.out.println("Latest update");// Just updated now
 
 	}
 	public void empprint(){
